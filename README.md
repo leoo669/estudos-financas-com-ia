@@ -85,4 +85,4 @@ Ficou claro que saber perguntar faz muita diferença, e que a IA pode ser uma bo
 
 ---
 
-Link do repositório: (colocar aqui o link do GitHub)
+Link do repositório:https://github.com/leoo669/estudos-financas-com-ia
